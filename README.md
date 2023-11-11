@@ -31,7 +31,7 @@ Execute the program using runserver command.
        <title>My TimeTable</title>
     </head>
     <body>
-        <img src="/static/logo.png" height="100" width="540">
+        <img src="c:/Users/NAVEEN/slot/durga/slotapp/static/logo.png" height="100" width="540">
         <table border="3" bgcolor="cyan">
             <caption align="center"><b>SLOT TIME - TABLE DURGA (23013532)</b></caption>
             <tr bgcolor="yellow">
@@ -117,8 +117,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot 2023-11-09 113559.png>)
-
+![Alt text](<Screenshot 2023-11-12 011521.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
