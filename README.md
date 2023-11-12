@@ -32,9 +32,9 @@ Execute the program using runserver command.
     </head>
     <body>
         <img src="c:/Users/NAVEEN/slot/durga/slotapp/static/logo.png" height="100" width="540">
-        <table border="3" bgcolor="cyan">
+        <table border="3" bgcolor="pink">
             <caption align="center"><b>SLOT TIME - TABLE DURGA (23013532)</b></caption>
-            <tr bgcolor="yellow">
+            <tr bgcolor="blue">
                 <th>Day</th>
                 <th colspan="2">8.00-10.00</th>
                 <th colspan="2">10.00-12.00</th>
@@ -43,36 +43,36 @@ Execute the program using runserver command.
                 <th c0lspan="2">3.00-5.00</th>
             </tr>
             <tr>
-                <th bgcolor="yellow">MON</th>
+                <th bgcolor="blue">MON</th>
                 <td colspan="2">EDM</td>
                 <td colspan="2">CHEMISTRY</td>
-                <td colspan="2" rowspan="5" align="center"bgcolor="yellow">LUNCH</td>
+                <td colspan="2" rowspan="5" align="center"bgcolor="pink">LUNCH</td>
                 <td colspan="2">FREE</td>
                 <td colspan="2">FREE</td>
             </tr>
             <tr> 
-                <th bgcolor="yellow">TUES</th>
+                <th bgcolor="blue">TUES</th>
                 <td colspan="2">FREE</td>
                 <td colspan="2">PYTHON</td>
                 <td colspan="2">ENGLISH</td>
                 <td colspan="2">FREE</td>
             </tr>
             <tr>
-                <th bgcolor="yellow">WED</th>
+                <th bgcolor="blue">WED</th>
                 <td colspan="2">WEB</td>
                 <td colspan="2">EDM</td>
                 <td colspan="2">FREE</td>
                 <td colspan="2">PYTHON</td>
             </tr>
             <tr>
-                <th bgcolor="yellow">THURS</th>
+                <th bgcolor="blue">THURS</th>
                 <td colspan="2">FREE</th>
                 <td colspan="2">WEB</td>
                 <td colspan="2">ENGLISH</td>
                 <td colspan="2">PYTHON</td>
             </tr>    
             <tr>
-                <th bgcolor="yellow">FRI</th>
+                <th bgcolor="blue">FRI</th>
                 <td colspan="2">PYHTON</td>
                 <td colspan="2">FREE</td>
                 <td colspan="2">WEB</td>
